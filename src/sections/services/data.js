@@ -6,7 +6,7 @@ export const data = [{
 {
     id: 2,
     name: 'SEO optimized',
-    desc: '\"SEO optimized\" ensures your website is strategically designed to rank higher on search engines. It involves using relevant keywords, optimizing meta tags, creating quality content, and improving site speed and mobile compatibility. This enhances your site\'s visibility, attracting organic traffic, and potentially boosting your business\'s online success.'
+    desc: '"SEO optimized" ensures your website is strategically designed to rank higher on search engines. It involves using relevant keywords, optimizing meta tags, creating quality content, and improving site speed and mobile compatibility. This enhances your site\'s visibility, attracting organic traffic, and potentially boosting your business\'s online success.'
 },
 {
     id: 3,

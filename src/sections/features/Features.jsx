@@ -1,7 +1,7 @@
 import "./features.css";
 import { Container, Row, Col } from "react-bootstrap";
 import { data, data2, data3, data4 } from "./data";
-import ProcessImg from "../../assets/stock-photo-young-man-veterinarian-examining-dog-on-table-in-veterinary-clinic-medicine-pet-animals-health-1992117965.jpg";
+
 
 const Features = () => {
   return (

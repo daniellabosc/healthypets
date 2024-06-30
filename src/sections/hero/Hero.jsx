@@ -8,7 +8,7 @@ const Hero = () => {
         <Row>
           <Col lg={6} sm={12}>
             <div className="hero__img">
-              <img src={HeroCat} alt="hero image" />
+              <img src={HeroCat} alt="hero" />
             </div>
           </Col>
           <Col lg={6} sm={12}>

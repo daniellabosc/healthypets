@@ -1,5 +1,4 @@
 import "./consultation.css";
-import Special from "../special/Special";
 
 const Consultation = () => {
   return (
